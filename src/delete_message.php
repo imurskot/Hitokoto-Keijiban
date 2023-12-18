@@ -1,4 +1,3 @@
-
 <?php
 
 if (isset($_POST['id']) && $_POST['id']) {
@@ -14,4 +13,3 @@ if (isset($_POST['id']) && $_POST['id']) {
 
 header('Location: /');
 exit();
-?>
